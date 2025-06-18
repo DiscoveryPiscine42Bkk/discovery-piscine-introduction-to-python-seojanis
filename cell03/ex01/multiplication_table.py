@@ -1,5 +1,7 @@
 
+
 value = int(input("Enter a number "))
+
 
 
 for num in range(10):
